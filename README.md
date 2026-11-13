@@ -1,6 +1,6 @@
 # Receipt AI
 
-This repository is the submission for the Shopee take home test. It is a receipt intelligence
+This repository is a receipt intelligence
 platform that uploads food receipts, extracts the merchant, date, items, and total with local OCR,
 stores them in SQLite, and answers natural-language questions about spending.
 
